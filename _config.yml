@@ -1,0 +1,21 @@
+# Base configs
+baseurl: "https://github.com/mithun-marmakki"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-46465113-2"
+
+# UI configs
+title: "MCube Creations"
+subtitle: "Making Memories Memorable!!"
+author: "Mithun M Marmakki"
+header:
+ title: "Photography"
+ subtitle: "by Mithun M Marmakki"
+footer:
+ name: "Hey there,"
+ bio: "I am a photographer from India. Contact me on Facebook/Instagram/Request-Form to book events"
+web_design: "BhatAprameya"
+social_urls:
+  facebook: "https://www.facebook.com/mithun.marmakki/"
+  instagram: "https://www.instagram.com/mcube_creations/"
+  linkedin: "https://www.linkedin.com/in/mithun-m-marmakki-1240ba13/"
