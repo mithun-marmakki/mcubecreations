@@ -1,7 +1,7 @@
 # Base configs
-baseurl: "https://github.com/mithun-marmakki/mcubecreations/blob/main"
-image_fulls_loc: "/images/fulls"
-image_thumbs_loc: "/images/thumbs"
+# baseurl: "https://github.com/mithun-marmakki/mcubecreations/blob/main"
+image_fulls_loc: "images/fulls"
+image_thumbs_loc: "images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
